@@ -10,6 +10,7 @@ This project implements a machine learning-based approach to detect fraudulent t
   - Logistic Regression
   - K-Nearest Neighbors (KNN)
   - XGBoost
+  - Voting Classifier
 - Feature selection and evaluation using metrics such as confusion matrices, ROC curves, and classification reports.
 - Extensive data visualization to analyze fraud patterns.
 
