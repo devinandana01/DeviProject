@@ -52,7 +52,7 @@ pip install -r requirements.txt
 2. Open the Jupyter Notebook:
 
    ```bash
-   jupyter notebook Devi_v17.ipynb
+   jupyter notebook Devi_v18.ipynb
    ```
 
 3. Execute the cells sequentially to preprocess the dataset, train models, and evaluate performance.
