@@ -49,10 +49,10 @@ pip install -r requirements.txt
    cd DeviProject
    ```
 
-2. Open the Jupyter Notebook:
+2. Open the Colab Notebook:
 
    ```bash
-   jupyter notebook Devi_v18.ipynb
+   collab notebook Devi_v18.ipynb
    ```
 
 3. Execute the cells sequentially to preprocess the dataset, train models, and evaluate performance.
